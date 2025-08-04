@@ -29,4 +29,11 @@ An intelligent, sentiment-sensitive chatbot that adapts its responses based on t
 ---
 
 ## 📁 Folder Structure
+emotion-aware-chatbot/
+├── streamlit_app.py # Main Streamlit interface
+├── emotion_model.py # Emotion classification logic
+├── chatbot_response.py # Dynamic response generation
+├── requirements.txt # All dependencies
+└── README.md # Project overview
+
 
